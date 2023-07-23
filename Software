@@ -1,0 +1,4 @@
+package comput;
+public interface Software {
+	void softwareResources();
+}
