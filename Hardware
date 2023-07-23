@@ -1,0 +1,5 @@
+package comput;
+public interface Hardware {
+	void hardwareResources();
+
+}
